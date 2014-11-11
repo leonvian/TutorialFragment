@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="propaganda">Conheça o TimeSpender, programa-se ao ver videos!</string>
+    <string name="clique_aqui">Clique Aqui!</string>
+    <string name="layout_tela_um">Layout da tela UM</string>
+    <string name="layout_tela_dois">Layout da tela DOIS</string>
+    <string name="ir_para_tela_dois">Ir para a tela DOIS</string>
+
+</resources>
